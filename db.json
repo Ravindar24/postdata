@@ -1,14 +1,10 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+  
+        "sourceName" :  "file15555555";
+        "targetName" : "file2";
+        "sourceFilePath" : "string";
+        "targetFilePath" : "string";
+        "sourceHeaderExcluded" :  ["a","b"];
+        "targetHeaderExcluded" :  ["x","y","z"];
+    
+}
